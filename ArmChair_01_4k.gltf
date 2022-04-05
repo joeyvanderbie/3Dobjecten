@@ -149,7 +149,7 @@
   "buffers": [
     {
       "byteLength": 154012,
-      "uri": "ArmChair_01.bin"
+      "uri": "ArmChair_01.bin?raw=true"
     }
   ]
 }
